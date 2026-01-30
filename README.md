@@ -1,6 +1,6 @@
 # Lógica de Programação em Portugol
 
-Este repositório contém algoritmos desenvolvidos em **Portugol**, com foco no estudo de **lógica de programação** durante o início da graduação em **Engenharia de Software**.
+Este repositório contém algoritmos desenvolvidos em **Portugol**, com foco no estudo de **lógica de programação** durante a graduação em **Engenharia de Software**.
 
 ## 📌 Algoritmos disponíveis
 
