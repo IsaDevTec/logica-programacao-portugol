@@ -19,4 +19,4 @@ Praticar conceitos fundamentais de programação, como:
 - Validação de dados
 
 ## 📚 Contexto acadêmico
-Projetos desenvolvidos durante o **2º período do curso de Engenharia de Software**.
+Projetos desenvolvidos durante o o curso de **Engenharia de Software**.
